@@ -166,6 +166,7 @@ S
 
 
 
+
       <section id="contact" className="section">
         <h2>Contact</h2>
         <a className="btn" href={`mailto:${artist.email}`}>Email: {artist.email}</a>
