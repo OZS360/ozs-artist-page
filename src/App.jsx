@@ -114,51 +114,54 @@ S
   <div className="cards">
     {/* 既存のYouTube埋め込み */}
 
-    <article className="card">
-      <h3>My Old Mix on SoundCloud</h3>
-      <div className="embed">
-        <iframe
-          width="100%"
-          height="166"
-          scrolling="no"
-          frameBorder="no"
-          allow="autoplay"
-          src="https://soundcloud.com/ozs-1/9hxrxviv3ju5?si=14d9e48f12114437b8fb7775b662cded&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-        ></iframe>
-      </div>
-            <div className="embed">
-        <iframe
-          width="100%"
-          height="166"
-          scrolling="no"
-          frameBorder="no"
-          allow="autoplay"
-          src="https://soundcloud.com/ozs-1/before-dawn?si=e5d5b79a67b64ff8be71bb611fe5b6cb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-        ></iframe>
-      </div>
-            <div className="embed">
-        <iframe
-          width="100%"
-          height="166"
-          scrolling="no"
-          frameBorder="no"
-          allow="autoplay"
-          src="https://soundcloud.com/ozs-1/orbit-borer-underground-hip?si=95cfeae833274f2d8d0c5f8eb42aa3ed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-        ></iframe>
-      </div>
-            <div className="embed">
-        <iframe
-          width="100%"
-          height="166"
-          scrolling="no"
-          frameBorder="no"
-          allow="autoplay"
-          src="https://soundcloud.com/ozs-1/sunlit-room-underground-hip?si=d89dc0c8c85d44b7b418c370abf4a0ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-        ></iframe>
-      </div>
-    </article>
+<article className="card">
+  <h3>My Old Mix on SoundCloud</h3>
+
+  <div className="embed">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameBorder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/9hxrxviv3ju5&color=%23ff5500&auto_play=false&show_user=true"
+    ></iframe>
   </div>
-</section>
+
+  <div className="embed">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameBorder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/before-dawn&color=%23ff5500&auto_play=false&show_user=true"
+    ></iframe>
+  </div>
+
+  <div className="embed">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameBorder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/orbit-borer-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
+    ></iframe>
+  </div>
+
+  <div className="embed">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameBorder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/sunlit-room-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
+    ></iframe>
+  </div>
+</article>
+
 
 
       <section id="contact" className="section">
