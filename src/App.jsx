@@ -124,7 +124,7 @@ S
       scrolling="no"
       frameBorder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/9hxrxviv3ju5&color=%23ff5500&auto_play=false&show_user=true"
+      src="https://w.soundcloud.com/player/?url=https://soundcloud.com/ozs-1/9hxrxviv3ju5&color=%23ff5500&auto_play=false&show_user=true"
     ></iframe>
   </div>
 
@@ -135,7 +135,7 @@ S
       scrolling="no"
       frameBorder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/before-dawn&color=%23ff5500&auto_play=false&show_user=true"
+      src="https://w.soundcloud.com/player/?url=https://soundcloud.com/ozs-1/before-dawn&color=%23ff5500&auto_play=false&show_user=true"
     ></iframe>
   </div>
 
@@ -146,7 +146,7 @@ S
       scrolling="no"
       frameBorder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/orbit-borer-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
+      src="https://w.soundcloud.com/player/?url=https://soundcloud.com/ozs-1/orbit-borer-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
     ></iframe>
   </div>
 
@@ -157,10 +157,11 @@ S
       scrolling="no"
       frameBorder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ozs-1/sunlit-room-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
+      src="https://w.soundcloud.com/player/?url=https://soundcloud.com/ozs-1/sunlit-room-underground-hip&color=%23ff5500&auto_play=false&show_user=true"
     ></iframe>
   </div>
 </article>
+
 
 
 
