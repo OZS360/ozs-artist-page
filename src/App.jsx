@@ -127,14 +127,59 @@ S
         </ul>
       </section>
 
-      <section id="gallery" className="section">
-        <h2>Gallery</h2>
-        <div className="gallery">
-          <img src="/cover1.jpg" alt="Cover 1" />
-          <img src="/cover2.jpg" alt="Cover 2" />
-          <img src="/cover3.jpg" alt="Cover 3" />
-        </div>
-      </section>
+<section id="music" className="section">
+  <h2>Latest Releases</h2>
+  <p className="muted">Embed your tracks (YouTube / SoundCloud / Spotify / Suno export links)</p>
+
+  <div className="cards">
+    {/* 既存のYouTube埋め込み */}
+
+    <article className="card">
+      <h3>My Old Mix on SoundCloud</h3>
+      <div className="embed">
+        <iframe
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://soundcloud.com/ozs-1/9hxrxviv3ju5?si=14d9e48f12114437b8fb7775b662cded&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        ></iframe>
+      </div>
+            <div className="embed">
+        <iframe
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://soundcloud.com/ozs-1/before-dawn?si=e5d5b79a67b64ff8be71bb611fe5b6cb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        ></iframe>
+      </div>
+            <div className="embed">
+        <iframe
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://soundcloud.com/ozs-1/orbit-borer-underground-hip?si=95cfeae833274f2d8d0c5f8eb42aa3ed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        ></iframe>
+      </div>
+            <div className="embed">
+        <iframe
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://soundcloud.com/ozs-1/sunlit-room-underground-hip?si=d89dc0c8c85d44b7b418c370abf4a0ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        ></iframe>
+      </div>
+    </article>
+  </div>
+</section>
+
 
       <section id="contact" className="section">
         <h2>Contact</h2>
