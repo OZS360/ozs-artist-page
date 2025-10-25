@@ -1,9 +1,10 @@
 import { useState } from "react";
+import logo from "./assets/logo.png";
 
 export default function App() {
   const artist = {
     name: "OZS",
-    tagline: "Dark-conscious Hip-Hop / JP-EN Bilingual Rapper",
+    tagline: "Dark Hip-Hop",
     links: {
       x: "https://x.com/your_handle",
       youtube: "https://www.youtube.com/@your_channel",
@@ -13,20 +14,34 @@ export default function App() {
     email: "contact@example.com"
   };
 
-  return (
-    <div className="site">
-      <header className="hero" id="home">
-        <div className="hero-inner">
-          <h1 className="logo">{artist.name}</h1>
-          <p className="tagline">{artist.tagline}</p>
-          <nav className="cta-row">
-            <a href="#music" className="btn">Music</a>
-            <a href="#about" className="btn btn-ghost">About</a>
-            <a href="#contact" className="btn btn-ghost">Contact</a>
-          </nav>
-        </div>
-      </header>
+return (
+  <div className="site">
+    <header className="hero" id="home">
+      <div className="hero-inner">
 
+        {/* ロゴ画像 */}
+        <img
+          src={logo}
+          alt="OZS Logo"
+          style={{
+            width: "160px",
+            display: "block",
+            margin: "40px auto 10px",
+            borderRadius: "12px",
+          }}
+        />
+
+        <h1 className="logo">{artist.name}</h1>
+        <p className="tagline">{artist.tagline}</p>
+
+        <nav className="cta-row">
+          <a href="#music" className="btn">Music</a>
+          <a href="#about" className="btn btn-ghost">About</a>
+          <a href="#contact" className="btn btn-ghost">Contact</a>
+        </nav>
+      </div>
+    </header>
+S
       <section id="music" className="section">
         <h2>Latest Releases</h2>
         <p className="muted">Embed your tracks (YouTube / SoundCloud / Spotify / Suno export links)</p>
