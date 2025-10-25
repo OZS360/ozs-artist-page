@@ -41,7 +41,6 @@ return (
         </nav>
       </div>
     </header>
-S
       <section id="music" className="section">
         <h2>Latest Releases</h2>
         <p className="muted">Embed your tracks (YouTube / SoundCloud / Spotify / Suno export links)</p>
@@ -161,7 +160,8 @@ S
     ></iframe>
   </div>
 </article>
-
+</div>
+</section>
 
 
 
