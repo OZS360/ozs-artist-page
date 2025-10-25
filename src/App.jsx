@@ -58,36 +58,16 @@ S
               ></iframe>
             </div>
           </article>
-          <article className="card">
+         <article className="card">
             <h3>魂の雷鳴</h3>
+            {/* 例：SoundCloud埋め込み（URL差し替え） */}
             <div className="embed">
               <iframe
                 width="100%" height="200" scrolling="no" frameBorder="no" allow="autoplay"
-                src="https://soundcloud.com/ozs-1/9hxrxviv3ju5?si=213e9fcfc8cf4b33a3a6a3973c268480&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/TRACK_ID&color=%23000000&auto_play=false"
                 title="SoundCloud player"
               ></iframe>
-            </div>S
-            <div className="embed">
-              <iframe
-                width="100%" height="200" scrolling="no" frameBorder="no" allow="autoplay"
-                src="https://soundcloud.com/ozs-1/before-dawn?si=af417680e3114b0bbc307a089beceb52&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-                title="SoundCloud player"
-              ></iframe>
-            </div>S
-            <div className="embed">
-              <iframe
-                width="100%" height="200" scrolling="no" frameBorder="no" allow="autoplay"
-                src="https://soundcloud.com/ozs-1/orbit-borer-underground-hip?si=bb1868b111c144e190ca59aeb84da6c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-                title="SoundCloud player"
-              ></iframe>
-            </div>S
-            <div className="embed">
-              <iframe
-                width="100%" height="200" scrolling="no" frameBorder="no" allow="autoplay"
-                src="https://soundcloud.com/ozs-1/sunlit-room-underground-hip?si=05bc4784b16344078e7cbfd49ba710ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-                title="SoundCloud player"
-              ></iframe>
-            </div>S
+            </div>
           </article>
         </div>
       </section>
