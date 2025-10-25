@@ -107,11 +107,9 @@ return (
       </section>
 
 <section id="music" className="section">
-  <h2>Latest Releases</h2>
-  <p className="muted">Embed your tracks (YouTube / SoundCloud / Spotify / Suno export links)</p>
+
 
   <div className="cards">
-    {/* 既存のYouTube埋め込み */}
 
 <article className="card">
   <h3>My Old Mix on SoundCloud</h3>
