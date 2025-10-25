@@ -11,7 +11,7 @@ export default function App() {
       soundcloud: "https://soundcloud.com/your_profile",
       spotify: "https://open.spotify.com/artist/your_id"
     },
-    email: "contact@example.com"
+    email: "ozs758@zohomail.jpS"
   };
 
 return (
