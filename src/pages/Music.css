@@ -1,0 +1,41 @@
+.music-page {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.music-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 22px;
+  margin-top: 30px;
+}
+
+.music-card {
+  background: rgba(255, 255, 255, 0.04);
+  padding: 18px;
+  border-radius: 16px;
+  width: 200px;
+  text-decoration: none;
+  transition: 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.music-card:hover {
+  transform: translateY(-6px) scale(1.03);
+}
+
+.music-card img {
+  width: 100%;
+  height: 200px;
+  border-radius: 12px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.music-card p {
+  font-size: 14px;
+  color: #fff;
+}
