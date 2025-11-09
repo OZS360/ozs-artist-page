@@ -52,7 +52,7 @@ export default function Home() {
 
             <div className="embed">
               <iframe
-                src="https://www.youtube.com/embed/VIDEO_ID"
+                src="https://youtube.com/shorts/bXAwZK83BqE?feature=share"
                 title="YouTube player"
                 frameBorder="0"
                 allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"
