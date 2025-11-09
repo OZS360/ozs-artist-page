@@ -48,7 +48,7 @@ export default function Home() {
         <h2>Latest Releases</h2>
         <div className="cards">
           <article className="card">
-            <h3>地下の雷鳴 - Dope Edition</h3>
+            <h3>地下の雷鳴</h3>
 
             <div className="embed">
               <iframe
