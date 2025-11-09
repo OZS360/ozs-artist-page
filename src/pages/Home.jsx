@@ -51,12 +51,12 @@ export default function Home() {
             <h3>地下の雷鳴</h3>
 
             <div className="embed">
-              <iframe
-                src="https://youtube.com/shorts/bXAwZK83BqE?feature=share"
-                title="YouTube player"
-                frameBorder="0"
-                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"
-                allowFullScreen
+             <iframe
+               src="https://www.youtube.com/embed/bXAwZK83BqE"
+               title="YouTube player"
+               frameBorder="0"
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+               allowFullScreen
               ></iframe>
             </div>
 
